@@ -1,0 +1,4 @@
+{"A": {"name": "base",      "system": ["base.md"],               "user": ["{LINE}"]},
+ "B": {"name": "dossier",   "system": ["base.md", "dossier.md"], "user": ["{LINE}"]},
+ "C": {"name": "carryover", "system": ["base.md"],               "user": ["carryover.md", "{LINE}"]},
+ "D": {"name": "both",      "system": ["base.md", "dossier.md"], "user": ["carryover.md", "{LINE}"]}}

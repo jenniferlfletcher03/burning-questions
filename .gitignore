@@ -1,0 +1,11 @@
+# what never leaves the house: the answers, the blind sheets, the sealed mappings, the real keys
+runs/
+**/runs/
+*.answer.md
+blind.md
+mapping.json
+key.md
+key-*.md
+!key-template.md
+.DS_Store
+__pycache__/
